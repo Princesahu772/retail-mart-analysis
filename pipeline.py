@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import sqlite3
 
-BASE = r'D:\Retail Mart Sales Analysis'
+BASE = r'D:\Retail Mart Sales Analysis' # here we enter the location and name of the folder you are required to change it with your folder
 
 # Task 1: Data Ingestion
 print("=" * 60)
