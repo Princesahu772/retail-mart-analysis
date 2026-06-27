@@ -1,0 +1,4 @@
+retail_mart.db
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
